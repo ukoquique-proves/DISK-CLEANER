@@ -1,0 +1,6 @@
+# Disk Cleaner — Python stdlib only, no third-party dependencies.
+# All modules used (os, shutil, pathlib, fnmatch, argparse, threading, etc.)
+# are part of the Python 3.10+ standard library.
+#
+# Optional: install rich for prettier output (not required, falls back to ANSI)
+# rich>=13.0
